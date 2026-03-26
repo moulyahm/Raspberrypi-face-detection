@@ -37,7 +37,7 @@ Make sure the following file is present in the root directory:
 * Draws bounding boxes around faces
 * Displays number of faces in real-time
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Face recognition (identify person)
 * Mask detection
